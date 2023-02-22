@@ -1,4 +1,4 @@
-# Generate Music
+# PokeBeats
 
 ## Overview 
 
@@ -18,9 +18,9 @@ https://user-images.githubusercontent.com/28122432/190934054-f9175785-64b3-4c4d-
   
   ```bash
 # Retrieve git folder
-$ git clone https://github.com/Scylidose/Generate_Music.git
+$ git clone https://github.com/Scylidose/PokeBeats.git
 
-$ cd Generate_Music/Application
+$ cd PokeBeats/Application
 ```
 
 In one terminal 
